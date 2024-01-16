@@ -3,6 +3,8 @@ Compilation of assignments from International Virtual Course Astrostatistics and
 
 # Individual Assignment
 
+Library: scikit-learn, tensorflow, pymultinest / ultranest
+
 1. Project 1 : Galaxies classification based on the regression of its brightness (magnitude) in different wavelengths. (keywords =  regression, model training)
 2. Project 2 : Galaxies distance (redshift) estimation based on the regression of its color-color diagram (magnitude). (keywords = regresion, neural networks training)
 3. Hands-on 6 August : Time series analysis of binary system DT Vir lightcurve (keywords =  time series analysis)
